@@ -1,5 +1,3 @@
-# React + Vite
-
 # CAR SERVICE CENTER
 
 # Project Overview
@@ -8,14 +6,15 @@ The Car Service Center Website is a comprehensive web application designed to st
 
 # Technologies Used
 
-# Frontend: HTML, CSS, JavaScript, React.js,
+````Frontend: HTML, CSS, JavaScript, React.js,
 
-# Backend: Node.js, Express.js,
+```Backend: Node.js, Express.js,
 
-# Database: MongoDB,
+```Database: MongoDB,
 
-# Authentication: JWT (JSON Web Tokens),
+```Authentication: JWT (JSON Web Tokens),
 
-# Version Control: Git, GitHub,
+```Version Control: Git, GitHub,
 
-# Deployment: Vercel
+```Deployment: Vercel
+````
