@@ -6,7 +6,8 @@ The Car Service Center Website is a comprehensive web application designed to st
 
 # Technologies Used
 
-````Frontend: HTML, CSS, JavaScript, React.js,
+````
+```Frontend: HTML, CSS, JavaScript, React.js,
 
 ```Backend: Node.js, Express.js,
 
@@ -18,3 +19,11 @@ The Car Service Center Website is a comprehensive web application designed to st
 
 ```Deployment: Vercel
 ````
+
+# Images of Site
+
+<img width="400" alt="Home" src="./src/assets/images/readmeImage/pic1.PNG">
+<img width="400" alt="Home" src="./src/assets/images/readmeImage/pic2.PNG">
+<img width="400" alt="Home" src="./src/assets/images/readmeImage/pic3.PNG">
+<img width="400" alt="Home" src="./src/assets/images/readmeImage/pic4.PNG">
+<img width="400" alt="Home" src="./src/assets/images/readmeImage/pic5.PNG">
